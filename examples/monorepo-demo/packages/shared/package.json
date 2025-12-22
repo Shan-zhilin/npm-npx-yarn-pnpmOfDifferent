@@ -1,0 +1,14 @@
+{
+  "name": "@demo/shared",
+  "version": "1.0.0",
+  "description": "共享工具库",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"构建 shared 包...\"",
+    "test": "echo \"测试 shared 包...\""
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
+

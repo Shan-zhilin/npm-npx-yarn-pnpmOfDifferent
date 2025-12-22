@@ -1,0 +1,27 @@
+{
+  "name": "pnpm-demo",
+  "version": "1.0.0",
+  "description": "pnpm 包管理器演示项目",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"运行测试...\" && exit 0",
+    "build": "echo \"构建项目...\""
+  },
+  "keywords": ["pnpm", "demo", "example"],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@8.10.0",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+
