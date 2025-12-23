@@ -171,6 +171,3 @@ npmRegistryServer: "https://registry.npmmirror.com"
 ⚠️ **重要**: 锁文件必须提交到 Git！
 
 ---
-
-*快速参考，详细说明请查看 README.md*
-
