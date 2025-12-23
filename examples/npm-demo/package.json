@@ -10,7 +10,11 @@
     "build": "echo \"构建项目...\"",
     "lint": "eslint ."
   },
-  "keywords": ["npm", "demo", "example"],
+  "keywords": [
+    "npm",
+    "demo",
+    "example"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
@@ -21,4 +25,3 @@
     "nodemon": "^3.0.1"
   }
 }
-

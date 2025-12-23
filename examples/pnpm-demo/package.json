@@ -9,7 +9,11 @@
     "test": "echo \"运行测试...\" && exit 0",
     "build": "echo \"构建项目...\""
   },
-  "keywords": ["pnpm", "demo", "example"],
+  "keywords": [
+    "pnpm",
+    "demo",
+    "example"
+  ],
   "author": "",
   "license": "MIT",
   "packageManager": "pnpm@8.10.0",
@@ -17,11 +21,11 @@
     "node": ">=16.0.0"
   },
   "dependencies": {
+    "dayjs": "^1.11.10",
     "express": "^4.18.2",
-    "dayjs": "^1.11.10"
+    "pnpm": "^10.26.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
-
